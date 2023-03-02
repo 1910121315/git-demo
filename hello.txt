@@ -7,3 +7,4 @@ hello,lijian778@163.com
 11111111
 
 lhc
+ssh-push
